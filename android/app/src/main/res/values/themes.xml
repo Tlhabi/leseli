@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Leseli" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#0b2e7a</item>
+        <item name="android:colorPrimaryDark">#0b2e7a</item>
+        <item name="android:colorAccent">#f6b73c</item>
+        <item name="android:windowBackground">#fbf6ec</item>
+        <item name="android:statusBarColor">#0b2e7a</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+    </style>
+</resources>

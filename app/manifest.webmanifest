@@ -1,0 +1,18 @@
+{
+  "name": "Leseli – Ithute ntle le inthanete",
+  "short_name": "Leseli",
+  "description": "Offline learning for Grades 5–7 in Sesotho and English (Moshoeshoe II Primary School, Lesotho)",
+  "lang": "st",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6ec",
+  "theme_color": "#0b2e7a",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

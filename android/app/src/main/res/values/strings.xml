@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Leseli</string>
+    <string name="share_title">Arolelana · Share</string>
+    <string name="mic_needed">Leseli needs the microphone to record questions. · Leseli e hloka maekrofono.</string>
+</resources>
